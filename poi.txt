@@ -1,0 +1,7 @@
+TITLE,DESC,LAT,LON
+Stugan, Här bor jag, 63.568886, 17.616050
+Affärn, Handla här, 63.578855, 17.589619
+Gammelgårn, Fika här, 63.572994, 17.608191
+Långnäse,Kasta macka här, 63.559512, 17.625575
+Fäboern, Turista här, 63.553344, 17.614707
+Saan, Bada här, 63.560260, 17.637810
